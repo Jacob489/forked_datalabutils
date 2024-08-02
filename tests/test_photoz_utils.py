@@ -5,7 +5,7 @@
 import pytest
 
 
-from datalabutils import photoz_utils
+from astrodatautils import photoz_utils
 
 
 @pytest.fixture
