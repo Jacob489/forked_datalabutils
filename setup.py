@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='astrodatautils',
+    name='astrodatalab',
     version='0.1.0',
     author='Jacob Nowack',
     author_email='truenorthproductions87@gmail.com',
